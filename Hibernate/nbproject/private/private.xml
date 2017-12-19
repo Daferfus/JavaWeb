@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/fernandez163/NetBeansProjects/Hibernate/src/hibernate.cfg.xml</file>
+            <file>file:/home/fernandez163/NetBeansProjects/Hibernate/src/Entidad/Profesor.java</file>
+            <file>file:/home/fernandez163/NetBeansProjects/Hibernate/src/Entidad/Profesor.hbm.xml</file>
+            <file>file:/home/fernandez163/NetBeansProjects/Hibernate/src/Utils/HibernateUtil.java</file>
+            <file>file:/home/fernandez163/NetBeansProjects/Hibernate/src/hibernate/Hibernate.java</file>
+        </group>
+    </open-files>
+</project-private>
